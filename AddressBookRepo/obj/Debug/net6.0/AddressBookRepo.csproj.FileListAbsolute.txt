@@ -1,0 +1,12 @@
+C:\Users\andre\source\repos\AddressBook\AddressBookRepo\bin\Debug\net6.0\AddressBookRepo.deps.json
+C:\Users\andre\source\repos\AddressBook\AddressBookRepo\bin\Debug\net6.0\AddressBookRepo.dll
+C:\Users\andre\source\repos\AddressBook\AddressBookRepo\bin\Debug\net6.0\AddressBookRepo.pdb
+C:\Users\andre\source\repos\AddressBook\AddressBookRepo\obj\Debug\net6.0\AddressBookRepo.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\AddressBook\AddressBookRepo\obj\Debug\net6.0\AddressBookRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\AddressBook\AddressBookRepo\obj\Debug\net6.0\AddressBookRepo.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\AddressBook\AddressBookRepo\obj\Debug\net6.0\AddressBookRepo.AssemblyInfo.cs
+C:\Users\andre\source\repos\AddressBook\AddressBookRepo\obj\Debug\net6.0\AddressBookRepo.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\AddressBook\AddressBookRepo\obj\Debug\net6.0\AddressBookRepo.dll
+C:\Users\andre\source\repos\AddressBook\AddressBookRepo\obj\Debug\net6.0\refint\AddressBookRepo.dll
+C:\Users\andre\source\repos\AddressBook\AddressBookRepo\obj\Debug\net6.0\AddressBookRepo.pdb
+C:\Users\andre\source\repos\AddressBook\AddressBookRepo\obj\Debug\net6.0\ref\AddressBookRepo.dll
